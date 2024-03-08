@@ -282,7 +282,7 @@
   --color1: rgb(0, 231, 255);
   --color2: rgb(255, 0, 231);
   
-  width: 500px;
+  width: 330px;
   height: 100px;
   background-color: black;
   background-size: 100%;
@@ -492,6 +492,29 @@
       animation-delay: 0.4s;
     }
   }
+
+  .css-button-gradient--1 {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background-size: 120% auto;
+  background-image: linear-gradient(315deg, #4ecdc4 0%, #c797eb 75%);
+}
+.css-button-gradient--1:hover {
+  background-position: right center;
+}
+.css-button-gradient--1:active {
+  top: 2px;
+}
 }
 
   
@@ -523,8 +546,8 @@
                         <h3 style="font-family: 'Fredoka One', cursive;  color:white; font-size:50px;">Bree the first lady of Base!</h3>
 
                         <h4 style="color: white;">Meet Bree, Brett wife on the Base Network. Bree loves to have a good time and hang out with friends, but when she not with her friends she spending time with Brett. </h4>
-                        <a href="https://t.me/Shibasafemoon" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
-                        <a href="https://twitter.com/ShibaSafeMoon1" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
+                        <a href="https://t.me/basedbree" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
+                        <a href="https://twitter.com/basedbree" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
 
                         <img  src="images/bree.png" style="animation: holoCard 1s ease infinite;" alt="alternative">
                     </div> <!-- end of text-container -->
@@ -542,19 +565,27 @@
                     <div class="image-container">
                         {{-- <video src="video/render.mp4" width="600px" height=600px;></video> --}}
                         {{-- <img class="img-fluid" src="images/angrybg.png" alt="alternative"> --}}
-                            <div class="card mew"></div>
+                            <div class="card mew" style="width:330px;"></div>
 
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
                         <h2 style="font-family: 'Fredoka One', cursive;   color:white;" >How To Buy $Bree</h2>
+                        <ul>
+                          <li style="color:white;">  Step1: Convert your wallet Address to Base  </li>
+                          <li style="color:white;">  Step2: Head To SushiSwap  </li>
+                          <li style="color:white;">  Step3: Connect your wallet using Base  </li>
+                          <li style="color:white;">  Step4: Paste in SushiSwap: 0x78989B7Ae76a4fDbf6627b92984935cA8b4aD0b8 </li>
+                          <li style="color:white;">  Step5: Done </li>
+
+                      
+                        </ul>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
-                                <h4 style=" font-size: 18px; color: white; font-family: 'Fredoka One', cursive; padding-left:10px; ">$Bree is avilable on SusiSwap </h4>
+                                <h4 style=" font-size: 18px; color: white; font-family: 'Fredoka One', cursive; padding-left:10px; ">$Bree is avilable on SushiSwap </h4>
                             </li>
-                              <div class="card-susi mew"></div>
-
+                              <div class="card-susi mew" style="width:330px !important;"></div>
  
                         </ul> 
                     </div> <!-- end of text-container -->
@@ -629,10 +660,10 @@
                 <h2 class="vouch-merchant-customerh2" style="text-align: center; padding-bottom:80px; font-size: 60px; font-family: 'Fredoka One', cursive;   color:white; ">FAQ</h2>
 
                     <div class="question-title">
-                        <h3 style="color: white; font-family: 'Fredoka One', cursive;  font-size:22px;">  What is Shibasafemoon Token? </h3>
+                        <h3 style="color: white; font-family: 'Fredoka One', cursive;  font-size:22px;">  What is $Bree Token? </h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p>Shibasafemoon Token  is a fully decentralized, peer-to-peer digital currency, owned by it’s holders, focused on helping organizations dealing with research in medicine.</p>
+                                <p>Bree is the first lady of BaseChain and Brett Wife.</p>
                             </div>
 
                         </div>
@@ -642,12 +673,13 @@
                    
 
                         <div class="question-title">
-                        <h3 style="font-family: 'Fredoka One', cursive;  color:white;font-size:22px;"> Where can I get Shibasafemoon Token?</h3>
+                        <h3 style="font-family: 'Fredoka One', cursive;  color:white;font-size:22px;"> Where can I get $Bree?</h3>
                         <div class="content-main">
                             <div class="content-inner">
-                                <p>
-                                    You can buy on Uniswap (HERE) <br>
-                                    Contract Address is (HERE)
+                                <p>  $Bree is avilable on SushiSwap
+                                    <br>
+                                    contract Address: 0x78989B7Ae76a4fDbf6627b92984935cA8b4aD0b8
+                                    
                                 </p>
                             </div>
 
@@ -660,7 +692,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
-                                        <a href="https://t.me/Shibasafemoon" target="_blank">Click Here Telegram</a>                                    
+                                        <a href="https://t.me/basedbree" target="_blank">Click Here Telegram</a>                                    
                                 </p>
                             </div>
 
@@ -673,7 +705,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
-                                        <a href="https://twitter.com/ShibaSafeMoon1" target="_blank">Click Here Twitter</a>                                    
+                                        <a href="https://twitter.com/basedbree" target="_blank">Click Here Twitter</a>                                    
                                 </p>
                             </div>
 
