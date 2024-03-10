@@ -545,9 +545,9 @@
                     <div class="text-container">
                         <h3 style="font-family: 'Fredoka One', cursive;  color:white; font-size:50px;">Bree the first lady of Base!</h3>
 
-                        <h4 style="color: white;">Meet Bree, Brett wife on the Base Network. Bree loves to have a good time and hang out with friends, but when she not with her friends she spending time with Brett. </h4>
+                        <h4 style="color: white;">Meet Bree, Brett's wife on the Base Network. Bree loves to have a good time and hang out with friends, but when she's not with her friends, she's spending time with Brett. </h4>
                         <a href="https://t.me/basedbree" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
-                        <a href="https://twitter.com/basedbree" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
+                        <a href="https://twitter.com/BaseddBree" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
 
                         <img  src="images/bree.png" style="animation: holoCard 1s ease infinite;" alt="alternative">
                     </div> <!-- end of text-container -->
@@ -634,7 +634,7 @@
                         <h4 style="font-family: 'Fredoka One', cursive;   color:pink; text-align:center;">Lead Growth and Development for Base Network</h4>
                                <ul>
                                 <li class="media">
-                                    <div class="media-body"style="color:pink">pivotial goal for the team is to lead growth on the Base Network growing a community that will lead the next generation of growth for the Coinbase ecosystem.</div>
+                                    <div class="media-body"style="color:pink">Pivotial goal for the team is to lead growth on the Base Network growing a community that will lead the next generation of growth for the Coinbase ecosystem.</div>
                                 </li>
                                
                             </ul>
@@ -705,7 +705,7 @@
                         <div class="content-main">
                             <div class="content-inner">
                                 <p>
-                                        <a href="https://twitter.com/basedbree" target="_blank">Click Here Twitter</a>                                    
+                                        <a href="https://twitter.com/BaseddBree" target="_blank">Click Here Twitter</a>                                    
                                 </p>
                             </div>
 
