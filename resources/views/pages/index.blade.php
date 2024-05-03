@@ -4,7 +4,7 @@
 
 <style>
     .header{
-  background-image: url('images/bree.png');
+  background-image: url('images/crodie.jpg');
   /* animation: holoCard 15s ease infinite; */
   background-repeat: no-repeat;
   background-position: center;
@@ -99,7 +99,7 @@
 .card.mew {
   --color1: #eb8bff;
   --color2: #7eeefa;
-  background-image: url('images/bree.png');
+  background-image: url('images/raydum.png');
 }
 
 .card > span {
@@ -543,13 +543,18 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-container">
-                        <h3 style="font-family: 'Fredoka One', cursive;  color:white; font-size:50px;">Bree the first lady of Base!</h3>
+                        <h3 style="font-family: 'Fredoka One', cursive;  color:white; font-size:50px;">Crodie Drake Cat on Sol</h3>
 
-                        <h4 style="color: white;">Meet Bree, Brett's wife on the Base Network. Bree loves to have a good time and hang out with friends, but when she's not with her friends, she's spending time with Brett. </h4>
+                        <h4 style="color: white;">Drake official cat on solana, "crodie" </h4>
+                        <h4 style="color: white;">Don't speak on the family, crodie <br>
+It can get deep in the family, crodie <br>
+Talk about me and my family, crodie? <br>
+Someone gon' bleed in your family, crodie</h4>
+                        <h4></h4>
                         <a href="https://t.me/basedbree" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
                         <a href="https://twitter.com/BaseddBree" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
 
-                        <img  src="images/bree.png" style="animation: holoCard 1s ease infinite;" alt="alternative">
+                        <img  src="images/crodie.jpg" style="animation: holoCard 1s ease infinite;" alt="alternative">
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -565,27 +570,69 @@
                     <div class="image-container">
                         {{-- <video src="video/render.mp4" width="600px" height=600px;></video> --}}
                         {{-- <img class="img-fluid" src="images/angrybg.png" alt="alternative"> --}}
-                            <div class="card mew" style="width:330px;"></div>
+                            <div class="card mew" style="width:330px; height:300px;"></div>
 
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
-                        <h2 style="font-family: 'Fredoka One', cursive;   color:white;" >How To Buy $Bree</h2>
+                        <h2 style="font-family: 'Fredoka One', cursive;   color:white;" >How To Buy $crodie on solana</h2>
                         <ul>
-                          <li style="color:white;">  Step1: Convert your wallet Address to Base  </li>
-                          <li style="color:white;">  Step2: Head To SushiSwap  </li>
-                          <li style="color:white;">  Step3: Connect your wallet using Base  </li>
-                          <li style="color:white;">  Step4: Paste in SushiSwap: 0x78989B7Ae76a4fDbf6627b92984935cA8b4aD0b8 </li>
+                          <!-- <li style="color:white;">  Step1: Convert your wallet Address to Base  </li> -->
+                          <li style="color:white;">  Step1: Head To raydium  </li>
+                          <li style="color:white;">  Step2: Connect your wallet using sol  </li>
+                          <!-- <li style="color:white;">  Step4: Paste in Radi: 0x78989B7Ae76a4fDbf6627b92984935cA8b4aD0b8 </li> -->
                           <li style="color:white;">  Step5: Done </li>
 
                       
                         </ul>
                         <ul class="list-unstyled li-space-lg">
                             <li class="media">
-                                <h4 style=" font-size: 18px; color: white; font-family: 'Fredoka One', cursive; padding-left:10px; ">$Bree is avilable on SushiSwap </h4>
+                                <!-- <h4 style=" font-size: 18px; color: white; font-family: 'Fredoka One', cursive; padding-left:10px; ">$crodie is avilable on ra </h4> -->
                             </li>
-                              <div class="card-susi mew" style="width:330px !important;"></div>
+                              <!-- <div class="card-susi mew" style="width:330px !important;"></div> -->
+ 
+                        </ul> 
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-2 -->
+    <!-- end of details 1 -->
+
+
+     <!-- video  start -->
+     <div id="details" class="basic-2" style="background: black;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-xl-7">
+                <video controls style="height:500px;">
+                  <source src="{{ asset('images/drakevideo.mp4') }}" type="video/mp4">
+                  Your browser does not support the video tag.
+              </video>
+
+                </div> <!-- end of col -->
+                <div class="col-lg-6 col-xl-5">
+                    <div class="text-container">
+                        <h2 style="font-family: 'Fredoka One', cursive;   color:white;" >How To Buy $crodie on solana</h2>
+                        <ul>
+                          <!-- <li style="color:white;">  Step1: Convert your wallet Address to Base  </li> -->
+                          <li style="color:white; font-size:24px;">  This is for all the cats  </li>
+                          <li style="color:white; font-size:24px;">  Cheers to Crodie!  </li>
+                          <li style="color:pink; font-size:24px;">  11 Million views on Tiktok  </li>
+
+
+                          <!-- <li style="color:white;">  Step2: Connect your wallet using sol  </li> -->
+                          <!-- <li style="color:white;">  Step4: Paste in Radi: 0x78989B7Ae76a4fDbf6627b92984935cA8b4aD0b8 </li> -->
+                          <!-- <li style="color:white;">  Step5: Done </li> -->
+
+                      
+                        </ul>
+                        <ul class="list-unstyled li-space-lg">
+                            <li class="media">
+                                <!-- <h4 style=" font-size: 18px; color: white; font-family: 'Fredoka One', cursive; padding-left:10px; ">$crodie is avilable on ra </h4> -->
+                            </li>
+                              <!-- <div class="card-susi mew" style="width:330px !important;"></div> -->
  
                         </ul> 
                     </div> <!-- end of text-container -->
@@ -612,7 +659,7 @@
                         <h4 style="font-family: 'Fredoka One', cursive; color:pink; text-align:center;">Community</h4>
                                <ul>
                                 <li class="media">
-                                     <div class="" style="color:pink;">Growing a strong community that support one another and help take $bree to the moon.</div>
+                                     <div class="" style="color:pink;">Growing a strong community that support one another and help take $crodie to the moon.</div>
                                 </li>
   
                             </ul>
@@ -631,10 +678,10 @@
                 </div> <!-- end of col -->
                 <div class="col-lg-4">
                     <div class="card bg-gray"style="width: 320px;height: 250px;">
-                        <h4 style="font-family: 'Fredoka One', cursive;   color:pink; text-align:center;">Lead Growth and Development for Base Network</h4>
+                        <h4 style="font-family: 'Fredoka One', cursive;   color:pink; text-align:center;">Lead Growth and Development for Solana Network</h4>
                                <ul>
                                 <li class="media">
-                                    <div class="media-body"style="color:pink">Pivotial goal for the team is to lead growth on the Base Network growing a community that will lead the next generation of growth for the Coinbase ecosystem.</div>
+                                    <div class="media-body"style="color:pink">Pivotial goal for the team is to lead growth on the Solana Network growing a community that will lead the next generation of growth for the solana ecosystem.</div>
                                 </li>
                                
                             </ul>
@@ -653,7 +700,7 @@
 
 
 
-    <section id="Merchant-help"  style="padding-top: 100px; padding-bottom:100px; background:black;" >
+    <!-- <section id="Merchant-help"  style="padding-top: 100px; padding-bottom:100px; background:black;" >
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -722,7 +769,7 @@
         </div>
     </div>
 
-</section>
+</section> -->
 
 
 

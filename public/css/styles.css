@@ -455,7 +455,7 @@ input[type='checkbox'] {
 	padding-left: 1rem;
 	overflow-y: auto;
 	visibility: hidden;
-	background-color: pink;
+	background-color: black;
 	transition: visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
 	transition: transform .3s ease-in-out, visibility .3s ease-in-out;
 	transition: transform .3s ease-in-out, visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
@@ -530,7 +530,7 @@ input[type='checkbox'] {
 	overflow: hidden;
 	padding-top: 6rem;
 	padding-bottom: 17rem;
-	background: pink;
+	background: black;
 }
 
 .header .text-container {
@@ -1072,7 +1072,7 @@ a:hover.back-to-top {
 	.navbar.top-nav-collapse {
 		padding-top: 0.625rem;
 		padding-bottom: 0.625rem;
-		background-color: pink;
+		background-color: black;
 		box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.025);
 	}
 
