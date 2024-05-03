@@ -601,47 +601,6 @@ Someone gon' bleed in your family, crodie</h4>
     <!-- end of details 1 -->
 
 
-     <!-- video  start -->
-     <div id="details" class="basic-2" style="background: black;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-xl-7">
-                <video controls style="height:500px;">
-                  <source src="{{ asset('images/drakevideo.mp4') }}" type="video/mp4">
-                  Your browser does not support the video tag.
-              </video>
-
-                </div> <!-- end of col -->
-                <div class="col-lg-6 col-xl-5">
-                    <div class="text-container">
-                        <h2 style="font-family: 'Fredoka One', cursive;   color:white;" >How To Buy $crodie on solana</h2>
-                        <ul>
-                          <!-- <li style="color:white;">  Step1: Convert your wallet Address to Base  </li> -->
-                          <li style="color:white; font-size:24px;">  This is for all the cats  </li>
-                          <li style="color:white; font-size:24px;">  Cheers to Crodie!  </li>
-                          <li style="color:pink; font-size:24px;">  11 Million views on Tiktok  </li>
-
-
-                          <!-- <li style="color:white;">  Step2: Connect your wallet using sol  </li> -->
-                          <!-- <li style="color:white;">  Step4: Paste in Radi: 0x78989B7Ae76a4fDbf6627b92984935cA8b4aD0b8 </li> -->
-                          <!-- <li style="color:white;">  Step5: Done </li> -->
-
-                      
-                        </ul>
-                        <ul class="list-unstyled li-space-lg">
-                            <li class="media">
-                                <!-- <h4 style=" font-size: 18px; color: white; font-family: 'Fredoka One', cursive; padding-left:10px; ">$crodie is avilable on ra </h4> -->
-                            </li>
-                              <!-- <div class="card-susi mew" style="width:330px !important;"></div> -->
- 
-                        </ul> 
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-2 -->
-    <!-- end of details 1 -->
-    
 
     <!-- Features -->
     <div id="features" class="basic-4" style="background: black;">
