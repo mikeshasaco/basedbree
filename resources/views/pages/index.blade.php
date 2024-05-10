@@ -4,7 +4,7 @@
 
 <style>
     .header{
-  background-image: url('images/crodie.jpg');
+  background-image: url('images/michiwifhat.jpg');
   /* animation: holoCard 15s ease infinite; */
   background-repeat: no-repeat;
   background-position: center;
@@ -538,23 +538,20 @@
 
 
     <!-- Statement -->
-    <div id="statement" class="basic-1" style="background: black;">
+    <div id="statement" class="basic-1" style="background: pink;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-container">
-                        <h3 style="font-family: 'Fredoka One', cursive;  color:white; font-size:50px;">Crodie Drake Cat on Sol</h3>
+                        <h3 style="font-family: 'Fredoka One', cursive;  color:white; font-size:50px;"></h3>
 
-                        <h4 style="color: white;">Drake official cat on solana, "crodie" </h4>
-                        <h4 style="color: white;">Don't speak on the family, crodie <br>
-It can get deep in the family, crodie <br>
-Talk about me and my family, crodie? <br>
-Someone gon' bleed in your family, crodie</h4>
+                        <h4 style="color: white;"> <b>$Michiwif</b> </h4>
+                        <h4 style="color: white;">Don't Fade The Real Commmunity Driven Token $michiwif <br>
                         <h4></h4>
-                        <a href="https://t.me/basedbree" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
-                        <a href="https://twitter.com/BaseddBree" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
+                        <a href="https://t.me/michiwifportal" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
+                        <a href="https://twitter.com/MichiWifHatt" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
 
-                        <img  src="images/crodie.jpg" style="animation: holoCard 1s ease infinite;" alt="alternative">
+                        <img  src="images/michiwifhat.jpg" style="animation: holoCard 1s ease infinite;" alt="alternative">
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -563,7 +560,7 @@ Someone gon' bleed in your family, crodie</h4>
     <!-- end of statement -->
 
      <!-- Details 1 -->
-     <div id="details" class="basic-2" style="background: black;">
+     <div id="details" class="basic-2" style="background: pink;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-xl-7">
@@ -576,13 +573,13 @@ Someone gon' bleed in your family, crodie</h4>
                 </div> <!-- end of col -->
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
-                        <h2 style="font-family: 'Fredoka One', cursive;   color:white;" >How To Buy $crodie on solana</h2>
+                        <h2 style="font-family: 'Fredoka One', cursive;   color:white;" >How To Buy $MICHIWIF on solana</h2>
                         <ul>
                           <!-- <li style="color:white;">  Step1: Convert your wallet Address to Base  </li> -->
                           <li style="color:white;">  Step1: Head To raydium  </li>
                           <li style="color:white;">  Step2: Connect your wallet using sol  </li>
-                          <!-- <li style="color:white;">  Step4: Paste in Radi: 0x78989B7Ae76a4fDbf6627b92984935cA8b4aD0b8 </li> -->
-                          <li style="color:white;">  Step5: Done </li>
+                          <li style="color:white;">  Step3: Paste in raydium: DZLXFtvKF6DTdtm3JnKZywmStGYLM7uLLoYs4srKFZ5T </li>
+                          <li style="color:white;">  Step4: Done </li>
 
                       
                         </ul>
@@ -603,7 +600,7 @@ Someone gon' bleed in your family, crodie</h4>
 
 
     <!-- Features -->
-    <div id="features" class="basic-4" style="background: black;">
+    <div id="features" class="basic-4" style="background: pink;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -618,7 +615,7 @@ Someone gon' bleed in your family, crodie</h4>
                         <h4 style="font-family: 'Fredoka One', cursive; color:pink; text-align:center;">Community</h4>
                                <ul>
                                 <li class="media">
-                                     <div class="" style="color:pink;">Growing a strong community that support one another and help take $crodie to the moon.</div>
+                                     <div class="" style="color:pink;">Growing a strong community that support one another and help take $michiwif to the moon.</div>
                                 </li>
   
                             </ul>
@@ -650,7 +647,9 @@ Someone gon' bleed in your family, crodie</h4>
        
         </div> <!-- end of container -->
     </div> <!-- end of basic-4 -->
-    <!-- end of features -->
+    
+
+    
 
    
 
