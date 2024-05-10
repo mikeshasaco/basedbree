@@ -6,7 +6,7 @@
     
 
     <!-- Webpage Title -->
-    <title>Crodie</title>
+    <title>MichiWif</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Knewave&display=swap" rel="stylesheet">
     <!-- Styles -->
