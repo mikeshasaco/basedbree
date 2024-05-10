@@ -101,6 +101,23 @@
   --color2: #7eeefa;
   background-image: url('images/raydum.png');
 }
+.card.m1 {
+  --color1: #eb8bff;
+  --color2: #7eeefa;
+  background-image: url('images/toymichi.jpg');
+}
+
+.card.m2 {
+  --color1: #eb8bff;
+  --color2: #7eeefa;
+  background-image: url('images/toy.jpg');
+}
+
+.card.m3 {
+  --color1: #eb8bff;
+  --color2: #7eeefa;
+  background-image: url('images/toymichi.jpg');
+}
 
 .card > span {
   position: relative;
@@ -315,6 +332,21 @@
   background-image: url(https://images.pokemontcg.io/swshp/SWSH063_hires.png);
 }
 .card-susi.mew {
+  --color1: #eb8bff;
+  --color2: #7eeefa;
+  background-image: url('images/sushiswap.jpeg');
+}
+.card-susi.m1 {
+  --color1: #eb8bff;
+  --color2: #7eeefa;
+  background-image: url('images/sushiswap.jpeg');
+}
+.card-susi.m2 {
+  --color1: #eb8bff;
+  --color2: #7eeefa;
+  background-image: url('images/sushiswap.jpeg');
+}
+.card-susi.m3 {
   --color1: #eb8bff;
   --color2: #7eeefa;
   background-image: url('images/sushiswap.jpeg');
@@ -546,8 +578,8 @@
                         <h3 style="font-family: 'Fredoka One', cursive;  color:white; font-size:50px;"></h3>
 
                         <h4 style="color: white;"> <b>$Michiwif</b> </h4>
-                        <h4 style="color: white;">Don't Fade The Real Commmunity Driven Token $michiwif <br>
-                        <h4></h4>
+                        <h4 style="color: white;">Don't Fade The First $MICHI fan token!!!</h4>
+
                         <a href="https://t.me/michiwifportal" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
                         <a href="https://twitter.com/MichiWifHatt" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
 
@@ -565,8 +597,6 @@
             <div class="row">
                 <div class="col-lg-6 col-xl-7">
                     <div class="image-container">
-                        {{-- <video src="video/render.mp4" width="600px" height=600px;></video> --}}
-                        {{-- <img class="img-fluid" src="images/angrybg.png" alt="alternative"> --}}
                             <div class="card mew" style="width:330px; height:300px;"></div>
 
                     </div> <!-- end of image-container -->
@@ -651,7 +681,35 @@
 
     
 
-   
+    <div id="features" class="basic-4" style="background: pink;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h3 style="color:white; font-family: 'Fredoka One', cursive;  font-size:26px; text-align:center;">MichiWif</h3>
+
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="card m1 " style="width: 320px;height: 400px;">
+                         
+                    </div> <!-- end of text-box -->
+                </div> <!-- end of col -->
+                <div class="col-lg-4">
+                    <div class="card m1" style="width: 320px;height: 400px;">
+                      
+                    </div> <!-- end of text-box -->
+                </div> <!-- end of col -->
+                <div class="col-lg-4">
+                    <div class="card m2"style="width: 320px;height: 470px;">
+                      
+                    </div> <!-- end of text-box -->
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+       
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-4 -->
 
 
   
