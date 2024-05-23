@@ -6,7 +6,7 @@
     
 
     <!-- Webpage Title -->
-    <title>MichiWif</title>
+    <title>Pepe Zion</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Knewave&display=swap" rel="stylesheet">
     <!-- Styles -->
@@ -24,7 +24,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Creepster&display=swap" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="icon" href="images/michiwifhat.jpg">
+    <link rel="icon" href="images/zion.png">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
     
@@ -36,7 +36,7 @@
             <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Gemdev</a> -->
 
             <!-- Image Logo -->
-            <a class="navbar-brand " href="index.html" style="font-family: 'Fredoka One', cursive; text-decoration:none; color:white; font-size:50px;"> MichiWIF</a> 
+            <a class="navbar-brand " href="index.html" style="font-family: 'Fredoka One', cursive; text-decoration:none; color:green; font-size:50px;"> Pepe Zion</a> 
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
@@ -73,7 +73,7 @@
  
 
     <!-- Copyright -->
-    <div class="copyright bg-gray" style="background:pink;">
+    <div class="copyright bg-gray" style="background:black;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

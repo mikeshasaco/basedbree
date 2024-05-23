@@ -530,7 +530,7 @@ input[type='checkbox'] {
 	overflow: hidden;
 	padding-top: 6rem;
 	padding-bottom: 17rem;
-	background: pink;
+	background: black;
 }
 
 .header .text-container {
@@ -545,7 +545,7 @@ input[type='checkbox'] {
 
 .header .p-large {
 	margin-bottom: 2rem;
-	color: #ffffff;
+	color: green;
 }
 
 .header .ocean { 
@@ -554,11 +554,11 @@ input[type='checkbox'] {
 	position: absolute;
 	bottom: 0;
 	left: 0;
-	background: #ffffff;
+	background: #000000;
 }
 
 .header .wave {
-	background: url('../images/wave.svg') repeat-x; 
+	background: url('../images/wavep.svg') repeat-x; 
 	position: absolute;
 	top: -190px;
 	width: 6400px;
@@ -1072,7 +1072,7 @@ a:hover.back-to-top {
 	.navbar.top-nav-collapse {
 		padding-top: 0.625rem;
 		padding-bottom: 0.625rem;
-		background-color: pink;
+		background-color: black;
 		box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.025);
 	}
 

@@ -4,7 +4,7 @@
 
 <style>
     .header{
-  background-image: url('images/michiwifhat.jpg');
+  background-image: url('images/zion.png');
   /* animation: holoCard 15s ease infinite; */
   background-repeat: no-repeat;
   background-position: center;
@@ -561,7 +561,7 @@
         <div class="container ">
             <div class="row">
                 <div class="col-md-12">
-                    {{-- <h3 style="font-family: 'Fredoka One', cursive;  text-align:Center; color:white; font-size:50px;">CountDown</h3> --}}
+                    {{-- <h3 style="font-family: 'Fredoka One', cursive;  text-align:Center; color:green; font-size:50px;">CountDown</h3> --}}
 
                 </div>
             </div> <!-- end of row -->
@@ -570,20 +570,20 @@
 
 
     <!-- Statement -->
-    <div id="statement" class="basic-1" style="background: pink;">
+    <div id="statement" class="basic-1" style="background: black;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-container">
-                        <h3 style="font-family: 'Fredoka One', cursive;  color:white; font-size:50px;"></h3>
+                        <h3 style="font-family: 'Fredoka One', cursive;  color:green; font-size:50px;"></h3>
 
-                        <h4 style="color: white;"> <b>$Michiwif</b> </h4>
-                        <h4 style="color: white;">Don't Fade The First $MICHI fan token!!!</h4>
+                        <h4 style="color: green;"> <b>$PepeZion</b> </h4>
+                        <h4 style="color: green;">Don't Miss Next 100x PepeZion</h4>
                         <a href="https://www.dextools.io/app/en/solana/pair-explorer/8zwotc4kFbDMyyLvaWibfrHeHwjDuqmUDU3UU3HU9CxA?t=1715346311706" target=""><img  class="telegramimage"  src="images/dextools.png"  alt=""></a>
                         <a href="https://t.me/michiwifportal" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
                         <a href="https://twitter.com/MichiWifHatt" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
 
-                        <img  src="images/michiwifhat.jpg" style="animation: holoCard 1s ease infinite;" alt="alternative">
+                        <img  src="images/zion.png" style="animation: holoCard 1s ease infinite;" alt="alternative">
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
@@ -592,7 +592,7 @@
     <!-- end of statement -->
 
      <!-- Details 1 -->
-     <div id="details" class="basic-2" style="background: pink;">
+     <div id="details" class="basic-2" style="background: black;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-xl-7">
@@ -603,13 +603,13 @@
                 </div> <!-- end of col -->
                 <div class="col-lg-6 col-xl-5">
                     <div class="text-container">
-                        <h2 style="font-family: 'Fredoka One', cursive;   color:white;" >How To Buy $MICHIWIF on solana</h2>
+                        <h2 style="font-family: 'Fredoka One', cursive;   color:green;" >How To Buy $pepezion on solana</h2>
                         <ul>
                           <!-- <li style="color:white;">  Step1: Convert your wallet Address to Base  </li> -->
-                          <li style="color:white;">  Step1: Head To raydium  </li>
-                          <li style="color:white;">  Step2: Connect your wallet using sol  </li>
-                          <li style="color:white;">  Step3: Paste in raydium: DZLXFtvKF6DTdtm3JnKZywmStGYLM7uLLoYs4srKFZ5T </li>
-                          <li style="color:white;">  Step4: Done </li>
+                          <li style="color:green;">  Step1: Head To raydium  </li>
+                          <li style="color:green;">  Step2: Connect your wallet using sol  </li>
+                          <li style="color:green;">  Step3: Paste in raydium:  </li>
+                          <li style="color:green;">  Step4: Done </li>
 
                       
                         </ul>
@@ -629,87 +629,7 @@
 
 
 
-    <!-- Features -->
-    <div id="features" class="basic-4" style="background: pink;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h3 style="color:white; font-family: 'Fredoka One', cursive;  font-size:26px; text-align:center;">Utilites</h3>
 
-                </div>
-
-            </div>
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="card " style="width: 320px;height: 200px;">
-                        <h4 style="font-family: 'Fredoka One', cursive; color:pink; text-align:center;">Community</h4>
-                               <ul>
-                                <li class="media">
-                                     <div class="" style="color:pink;">Growing a strong community that support one another and help take $michiwif to the moon.</div>
-                                </li>
-  
-                            </ul>
-                    </div> <!-- end of text-box -->
-                </div> <!-- end of col -->
-                <div class="col-lg-4">
-                    <div class="card bg-gray" style="width: 320px;height: 200px;">
-                        <h4 style="font-family: 'Fredoka One', cursive;   color:pink; text-align:center;">Partnerships</h4>
-                               <ul>
-                                <li class="media">
-                                    <div class="media-body" style="color:pink">Community outreach is a very important aspect to the team, growing a network of partnerships across the crypto space.</div>
-                                </li>
-                                
-                            </ul>
-                    </div> <!-- end of text-box -->
-                </div> <!-- end of col -->
-                <div class="col-lg-4">
-                    <div class="card bg-gray"style="width: 320px;height: 250px;">
-                        <h4 style="font-family: 'Fredoka One', cursive;   color:pink; text-align:center;">Lead Growth and Development for Solana Network</h4>
-                               <ul>
-                                <li class="media">
-                                    <div class="media-body"style="color:pink">Pivotial goal for the team is to lead growth on the Solana Network growing a community that will lead the next generation of growth for the solana ecosystem.</div>
-                                </li>
-                               
-                            </ul>
-                    </div> <!-- end of text-box -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-       
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-4 -->
-    
-
-    
-
-    <div id="features" class="basic-4" style="background: pink;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h3 style="color:white; font-family: 'Fredoka One', cursive;  font-size:26px; text-align:center;">MichiWif</h3>
-
-                </div>
-
-            </div>
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="card m1 " style="width: 320px;height: 400px;">
-                         
-                    </div> <!-- end of text-box -->
-                </div> <!-- end of col -->
-                <div class="col-lg-4">
-                    <div class="card m1" style="width: 320px;height: 400px;">
-                      
-                    </div> <!-- end of text-box -->
-                </div> <!-- end of col -->
-                <div class="col-lg-4">
-                    <div class="card m2"style="width: 320px;height: 470px;">
-                      
-                    </div> <!-- end of text-box -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-       
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-4 -->
 
 
   
