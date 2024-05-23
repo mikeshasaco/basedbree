@@ -579,8 +579,8 @@
 
                         <h4 style="color: green;"> <b>$PepeZion</b> </h4>
                         <h4 style="color: green;">Don't Miss Next 100x PepeZion</h4>
-                        <a href="https://www.dextools.io/app/en/solana/pair-explorer/8zwotc4kFbDMyyLvaWibfrHeHwjDuqmUDU3UU3HU9CxA?t=1715346311706" target=""><img  class="telegramimage"  src="images/dextools.png"  alt=""></a>
-                        <a href="https://t.me/michiwifportal" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
+                        <!-- <a href="https://www.dextools.io/app/en/solana/pair-explorer/8zwotc4kFbDMyyLvaWibfrHeHwjDuqmUDU3UU3HU9CxA?t=1715346311706" target=""><img  class="telegramimage"  src="images/dextools.png"  alt=""></a> -->
+                        <a href="https://t.me/PepeZionPortal" target="_blank"><img  class="telegramimage"  src="images/telegram.png"  alt=""></a>
                         <a href="https://twitter.com/MichiWifHatt" target="_blank"><img  class="twitterimage"  src="images/twitter.png"  alt=""></a>
 
                         <img  src="images/zion.png" style="animation: holoCard 1s ease infinite;" alt="alternative">
