@@ -4,7 +4,7 @@
 
 <style>
     .header{
-  background-image: url('images/zion.png');
+  background-image: url('images/new.jpg');
   /* animation: holoCard 15s ease infinite; */
   background-repeat: no-repeat;
   background-position: center;
